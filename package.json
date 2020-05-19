@@ -1,0 +1,15 @@
+{
+  "name": "celebsapi",
+  "version": "1.0.0",
+  "description": "Celebs API built using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Dhruvil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Celebs API built using NodeJS",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
   },
   "author": "Dhruvil",
   "license": "ISC",

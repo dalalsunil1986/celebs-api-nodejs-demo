@@ -79,6 +79,6 @@ app.get("/celebs", (req,res)=>{
 
 })
 
-app.listen(3000, ()=>{
+app.listen(process.env.PORT || 5000, ()=>{
     console.log("NodeJS server is listening on the port 80")
 })
